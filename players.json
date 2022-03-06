@@ -1,8 +1,8 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.chivas",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-   {
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.chivas",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
          "identifier":"plantilla2022",
          "name":"Plantilla 2022",
          "publisher":"Ant Space",
@@ -152,7 +152,9 @@
                "emojis":[
                   
                ]
-            },
+            }
+         ]
+      },
       {
          "identifier":"gol2021",
          "name":"Pack Gol",
@@ -966,6 +968,5 @@
             }
          ]
       }
-  ]
+   ]
 }
-

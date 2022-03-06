@@ -1,7 +1,7 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.chivas",
    "ios_app_store_link":"",
-   "sticker_packs": [
+   "sticker_packs":[
       {
          "identifier":"ligamxc22j5",
          "name":"vs Santos Laguna",
@@ -323,7 +323,9 @@
                "emojis":[
                   
                ]
-            },
+            }
+         ]
+      },
       {
          "identifier":"ligamxc22j4",
          "name":"vs Juarez",
@@ -1683,7 +1685,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"ligamxc21j12",
          "name":"vs Monterrey",
          "publisher":"Ant Space",
@@ -2949,5 +2951,5 @@
             }
          ]
       }
-  ]
+   ]
 }
