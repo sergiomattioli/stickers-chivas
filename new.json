@@ -357,7 +357,7 @@
          ]
       },
       {
-         "identifier":"worlcup2022hirvinglozano2",
+         "identifier":"worldcup2022hirvinglozano2",
          "name":"Hirving Lozano (2)",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
@@ -687,8 +687,8 @@
          ]
       },
       {
-         "identifier":"worldcup2022hirvinglozano",
-         "name":"Hirving Lozano",
+         "identifier":"worldcup2022hirvinglozano1",
+         "name":"Hirving Lozano (1)",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
